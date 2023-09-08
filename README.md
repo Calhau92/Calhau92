@@ -1,18 +1,18 @@
 # Hi 👋, I'm Gabriel Calhau,
 
-##📝 Summary
+📝 ##Summary
 
 - 📊 Data Analyst | Agile Project Manager | Scrum Master | Risk Management Specialist
 - 💼 Senior Solutions Engineer at [TATA CONSULTANCY SERVICES]
 - 🎓 Postgraduate in Data Science and Big Data Analytics
 - 🏆 Microsoft Certified: Power BI Data Analyst Associate
 
-##👨‍💻 About Me
+👨‍💻 ##About Me
 
 I'm a seasoned Data Analyst and Agile Project Manager with a track record of turning data into results. 
 Over the past 5 years, I've been instrumental in improving decision-making, defining effective strategies, boosting productivity, and enabling data-driven management.
 
-##🔭 Experience:
+🔭 ##Experience:
 
 ### TATA CONSULTANCY SERVICES - TCS
 
@@ -32,7 +32,7 @@ Over the past 5 years, I've been instrumental in improving decision-making, defi
 - Prepared monthly KPI performance reports in Google Slides for executive audiences.
 - Reconciled and validated data from various sources.
 
-##🎓 Education
+🎓 ##Education
 
 - Postgraduate in Product Management, DESCOMPLICA, 2023
 - Postgraduate in Cloud Computing Projects, DESCOMPLICA, 2023
@@ -40,7 +40,7 @@ Over the past 5 years, I've been instrumental in improving decision-making, defi
 - Postgraduate in Strategic Administration, FIA Online, 2022
 - Additional courses in Data Analytics, Lean Six Sigma, Agile Process Management, and more.
 
-##⚡ Skills
+⚡ ##Skills
 
 - Project Management
 - Agile Methodologies
@@ -53,7 +53,7 @@ Over the past 5 years, I've been instrumental in improving decision-making, defi
 - Machine Learning
 - Microsoft Office Suite
 
-##🤝 Let's Connect!
+🤝 ##Let's Connect!
 
 Feel free to reach out to me at [gbcalhau@gmail.com] or call me at +55 (22) 99744-8813. 
 Let's connect and explore opportunities to leverage my expertise for your organization's success.
